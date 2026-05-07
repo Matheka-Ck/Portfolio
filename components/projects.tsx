@@ -49,7 +49,7 @@ export default function Projects() {
                 <CardTitle className="text-xl">{project.title}</CardTitle>
                 <CardDescription>{project.description}</CardDescription>
               </CardHeader>
-              <CardContent className="flex-grow flex flex-col justify-between">
+              <CardContent className="grow flex flex-col justify-between">
                 <div className="flex flex-wrap gap-2 mb-4">
                   {project.tags.map((tag, tagIndex) => (
                     <Badge key={tagIndex} variant="secondary">

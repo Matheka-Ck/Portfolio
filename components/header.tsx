@@ -5,7 +5,7 @@ export default function Header() {
     <header className="fixed top-0 w-full bg-background/95 backdrop-blur border-b border-border z-50">
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
         <Link href="#" className="text-lg font-semibold text-foreground hover:text-accent-green transition-colors">
-          John Developer
+          Matheka
         </Link>
         <ul className="flex gap-8">
           <li>
