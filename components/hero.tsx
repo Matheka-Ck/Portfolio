@@ -10,7 +10,7 @@ export default function Hero() {
             Software Developer & Problem Solver
           </h1>
           <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl mb-8 text-balance">
-            I build elegant, user-focused applications that solve real problems. With expertise in modern web technologies, I transform ideas into high-quality digital experiences.
+            Hello, my name is Matheka Caleb Kimeu and I build elegant, user-focused applications that solve real problems. With expertise in modern web technologies, I transform ideas into high-quality digital experiences.
           </p>
           <div className="flex gap-4">
             <Button asChild size="lg" className="bg-accent-green hover:bg-accent-green/90 text-foreground">

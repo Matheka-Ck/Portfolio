@@ -3,8 +3,8 @@ import { Badge } from '@/components/ui/badge'
 
 const skillCategories = [
   {
-    category: 'Frontend',
-    skills: ['HTML', 'CSS', 'Tailwind CSS', 'Flask'],
+    category: 'Web',
+    skills: ['HTML', 'CSS', 'Tailwind CSS', 'Flask', 'Wordpress'],
   },
   {
     category: 'Backend',
